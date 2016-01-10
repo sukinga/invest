@@ -1,0 +1,6 @@
+username = sukinga
+passwd = China1980
+tag_url = https://www.juhuotz.com/loan/detail/10000907
+repeat_times = 1000
+invest_num = 2500
+pay_passwd = 060409
