@@ -11,7 +11,7 @@ from email.mime.text import MIMEText
 send_mail_host="mail.baofeng.com"      # 发送的smtp
 send_mail_user="lixin@baofeng.com"
 send_mail_user_name="前海理想金融"
-send_mail_pswd="Qwer1234"
+send_mail_pswd=""
 send_mail_postfix="baofeng.com"  #发邮件的域名
 
 #get_mail_user="13581798781@139.com"
